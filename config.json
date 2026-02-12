@@ -15,7 +15,7 @@
   "13": "C",
   "14": "B",
   "15": "C",
-  "mainThreadId": "6601227983317461",
+  "mainThreadId": "1835778143715180",
   "notesMainThreadId": "",
   "botAccount": {
     "email": "",
@@ -37,34 +37,34 @@
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "61587367229815",
+        " paste your UID"
       ]
     }
   },
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "61587367229815",
+      " paste your UID"
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "61587367229815",
+    " paste your UID"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
-      "100015168369582"
+      "61587367229815",
+      " paste your UID"
     ]
   },
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "6601227983317461",
-      "9832241216832773"
+      " paste your tid",
+      " paste your TID"
     ]
   },
   "showLoginTitle": false,
