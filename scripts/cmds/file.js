@@ -18,7 +18,7 @@ module.exports = {
     
     // Bot Admin check
     const botAdmins = global.GoatBot.config?.ADMINBOT || [
-        "100015168369582"
+        "61587367229815"
     ];//in to this box u and manual set user uid or others user uid for whos can just get access this command
     if (!botAdmins.includes(senderID)) {
       return api.sendMessage("⛔ You are not authorized to use this command.", threadID, messageID);
